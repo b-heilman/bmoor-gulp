@@ -1,0 +1,31 @@
+{
+  "name": "bmoor-gulp",
+  "version": "0.1.0",
+  "author": "Brian Heilman <das.ist.junk@gmail.com>",
+  "description": "Useful methods for libraries using gulp",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/b-heilman/bmoor-gulp.git"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "demo": "gulp serve",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "bmoor": "^0.8.0",
+    "gulp": "^4.0.2",
+    "gulp-jsdoc3": "^2.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-mocha": "^7.0.2",
+    "jsdoc": "^3.6.3",
+    "jshint": "^2.10.3",
+    "jshint-stylish": "2.1.0",
+    "sinon": "^7.5.0",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
