@@ -18,7 +18,7 @@
     "gulp": "^4.0.2",
     "gulp-jsdoc3": "^2.0.0",
     "gulp-jshint": "^2.1.0",
-    "gulp-mocha": "^7.0.2",
+    "gulp-mocha": "^8.0.0",
     "jsdoc": "^3.6.3",
     "jshint": "^2.10.3",
     "jshint-stylish": "2.1.0",
